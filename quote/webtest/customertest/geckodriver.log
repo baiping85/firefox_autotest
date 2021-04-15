@@ -1,0 +1,27 @@
+1618299925474	geckodriver	INFO	Listening on 127.0.0.1:4864
+1618299928519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\baipi\\AppData\\Local\\Temp\\rust_mozprofileuno35g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618299932327	Marionette	INFO	Listening on port 4872
+1618299932708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618299938652	Marionette	INFO	Stopped listening on port 4872
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618300072966	geckodriver	INFO	Listening on 127.0.0.1:4929
+1618300076007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\baipi\\AppData\\Local\\Temp\\rust_mozprofilebZ5ymh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618300079584	Marionette	INFO	Listening on port 4941
+1618300079707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618300085757	Marionette	INFO	Stopped listening on port 4941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618300141057	geckodriver	INFO	Listening on 127.0.0.1:4989
+1618300144075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\baipi\\AppData\\Local\\Temp\\rust_mozprofileh9Ddey"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618300147794	Marionette	INFO	Listening on port 4997
+1618300148288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618300154248	Marionette	INFO	Stopped listening on port 4997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
